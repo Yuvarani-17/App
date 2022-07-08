@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18230" started-at="2022-07-07T16:43:06 IST" finished-at="2022-07-07T16:43:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18230" started-at="2022-07-07T16:43:06 IST" finished-at="2022-07-07T16:43:24 IST">
+      <class name="com.Zenda.TestCases.SignUpTest">
+        <test-method status="PASS" signature="browser()[pri:0, instance:com.Zenda.TestCases.SignUpTest@cb51256]" name="browser" is-config="true" duration-ms="7523" started-at="2022-07-07T16:43:06 IST" finished-at="2022-07-07T16:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="parentSignUp()[pri:1, instance:com.Zenda.TestCases.SignUpTest@cb51256]" name="parentSignUp" duration-ms="10179" started-at="2022-07-07T16:43:13 IST" finished-at="2022-07-07T16:43:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parentSignUp -->
+        <test-method status="PASS" signature="signUpValidation()[pri:2, instance:com.Zenda.TestCases.SignUpTest@cb51256]" name="signUpValidation" duration-ms="494" started-at="2022-07-07T16:43:24 IST" finished-at="2022-07-07T16:43:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpValidation -->
+      </class> <!-- com.Zenda.TestCases.SignUpTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
